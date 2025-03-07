@@ -1,0 +1,21 @@
+.profile {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;    
+}
+.profile .css-ticvdu-MuiGrid2-root button {
+    float: right;
+} 
+.profile .btn-upload, .profile .userdata {
+    text-align: center;
+}
+.profile .userdata {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 15px 0;
+}
+.profile .userdata p {
+    color: #1976d2;
+}
+.profile .css-dskzcr-MuiSvgIcon-root {
+    fill: #fff;
+}

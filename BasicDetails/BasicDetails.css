@@ -1,0 +1,43 @@
+.profile-form .css-zv9ro0-MuiButtonGroup-root {
+    float: left;
+}
+.profile-form .tab-indent {
+    margin: 25px auto 0 auto;
+}
+.profile-form .label {
+    text-align: left;
+}
+.profile-form .css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root {
+    text-align: left;
+}
+.profile .image-container {
+    text-align: center;
+    padding: 30px 0;
+}
+.profile .image-container img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.css-gxw4l9-MuiCircularProgress-root {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.profile-form .verticalTabs .css-hxbzlh-MuiGrid2-root img {
+    text-align: center;
+}
+.profile .detail-form .MuiBox-root {
+    padding-top: 65px;
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    float: right;
+}
+.css-q8hpuo-MuiFormControl-root {
+    margin-bottom: 20px !important;
+}
+.detail-form .css-q8hpuo-MuiFormControl-root {
+    gap: 10px !important;
+}

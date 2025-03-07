@@ -1,0 +1,42 @@
+.verticalTabs {
+    padding: 5px;
+    border-radius: 10px;
+    min-height: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.verticalTabs .panel-right {
+    border-radius: 10px;
+}
+.verticalTabs .title {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: #b94885;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+}
+.css-1cgx7kx-MuiTabs-scroller {
+    background-color: #fff;
+    min-height: 100%;
+    padding: 30px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.css-35zqo5-MuiTabs-root {
+    min-height: 100% !important;
+}
+.css-gcpdnc {
+    background-color: #fff;
+    padding: 30px !important;
+    border-radius: 10px;
+}
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    width: 100%;
+}
+.css-62e83j-MuiCircularProgress-root {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

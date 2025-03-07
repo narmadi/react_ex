@@ -1,0 +1,49 @@
+/* title */
+.loginForm .title {
+    width: 100%;
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 30px;
+    font-weight: 100;
+}
+.loginForm p {
+    text-align: center;
+    width: 100%;
+}
+form .tab-indent {
+    margin: 0 95px;
+}
+form .label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #b94885;
+}
+.loginForm .label{
+    color: #cecece;
+}
+.css-urk9vv {
+    border: 1px solid #cecece;
+    padding: 40px;
+}
+.login-form form .css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input,
+.login-form form .css-1ll44ll-MuiOutlinedInput-notchedOutline,
+.login-form form .css-74d805-MuiButtonBase-root-MuiButton-root.Mui-disabled,
+.login-form form .css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root,
+.login-form form .css-19qnlrw-MuiFormLabel-root-MuiInputLabel-root,
+.login-form form .css-1umw9bq-MuiSvgIcon-root,
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root,
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root,
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, 
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+    color: #cecece !important;
+}
+.login-form .css-19qnlrw-MuiFormLabel-root-MuiInputLabel-root {
+    font-size: 14px;
+}
+/* end of login form */
+
+@media (max-width: 576px) {
+    .login-form .title { font-size: 25px; }
+}

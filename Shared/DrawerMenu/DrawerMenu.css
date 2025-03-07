@@ -1,0 +1,14 @@
+.welcome img {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.welcome {
+    display: flex;
+    justify-content: start;
+    font-size: 14px;
+}
+.welcome div:nth-child(2) {
+    padding: 7px;
+}
